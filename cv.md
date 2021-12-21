@@ -28,7 +28,6 @@ I believe that my skill and hardworking will lead me through this path of becomi
 * Html5
 * CSS3
 * Git
-* JavaScript Basics
 * Adobe Photoshop Basics
 
 ---
